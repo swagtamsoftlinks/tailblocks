@@ -1,6 +1,6 @@
 {
-  "name": "tailblocks",
-  "homepage": "https://tailblocks.cc",
+  "name": "sltrain",
+  "homepage": "http://sltrain.cc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
